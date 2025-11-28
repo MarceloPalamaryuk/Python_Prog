@@ -15,6 +15,13 @@ exercicio1.py
 - Controlar listas
 
 ex2.py
-- Controlar dicionarios
+- Controlar dicionarios (Parte 1)
 
 Ficha3.zip
+- Manipulação e comprienção de dicionarios (Parte 2)
+
+Ficha4.zip
+- Utilização de funções para um programa que gere um inventario de livros, usando o sistema CRUD.
+
+Ficha5.py
+- Utilização de classes para criar e manipular objetos atravez de funções.
