@@ -25,3 +25,15 @@ Ficha4.zip
 
 Ficha5.py
 - Utilização de classes para criar e manipular objetos atravez de funções.
+
+Vendas e TRAIN
+- Analise de dados exel/csv usando o jupyter.
+
+Clinica
+-Criar um web site de clinica simples.
+
+GestorDeTarefas e GestorDeUtilizadores.
+-Criação de bases de dados sql em python.
+
+Avaliação-Analise-Dados
+-Avaliação dos conhecimentos em analise de dados.
